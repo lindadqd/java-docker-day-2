@@ -19,7 +19,7 @@ Create an API with the usual GET/PUT/POST/DELETE endpoints.
 
 The API should serve user data for ?????.
 
-The data for students should include:
+The data for ???? should include:
 
 * Unique ID
 * ????
