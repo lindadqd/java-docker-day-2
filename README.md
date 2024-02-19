@@ -17,16 +17,9 @@
 
 Create an API with the usual GET/PUT/POST/DELETE endpoints. 
 
-The API should serve user data for ?????.
+The API should serve user data for a Micro-Blogging platform (something like Twitter).
 
-The data for ???? should include:
-
-* Unique ID
-* ????
-* ????
-* ????
-* ????
-* ????
+Work out some sensible tables for a basic version of this that will allow a single user to use the platform to make posts etc. 
 
 Your API should connect to PostgreSQL database instance that will run in a local container.
 
@@ -38,5 +31,5 @@ To assess this we will clone your repository, and use your `docker-compse.yml` f
 
 ## Extension
 
-In addition to the ???? details add in ????
+In addition to the basic single user Micro-Blogging platform add the ability for it to have multiple users, who can interact with each other's posts (friend lists, upvotes, reposting etc).
 
