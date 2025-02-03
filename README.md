@@ -27,7 +27,7 @@ Create a `jar` file for the completed application.
 
 Use `docker-compose` to create the appropriate images and orchestrate running them together, it should also manage the connection details for the database.
 
-To assess this we will clone your repository, and use your `docker-compse.yml` file to generate the appropriate images and run them.
+To assess this we will clone your repository, and use your `docker-compose.yml` file to generate the appropriate images and run them.
 
 ## Extension
 
