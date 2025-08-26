@@ -15,9 +15,7 @@
 
 ## Core
 
-Create an API with the usual GET/PUT/POST/DELETE endpoints. 
-
-The API should serve user data for a Micro-Blogging platform (something like Twitter).
+Create an API with the usual GET/PUT/POST/DELETE endpoints, the API could serve user data for a Micro-Blogging platform (something like Twitter) or you could reuse a previous exercises API endpoints. Either way the code will need to be in this repo for us to see it.
 
 Work out some sensible tables for a basic version of this that will allow a single user to use the platform to make posts etc. 
 
@@ -31,5 +29,5 @@ To assess this we will clone your repository, and use your `docker-compose.yml` 
 
 ## Extension
 
-In addition to the basic single user Micro-Blogging platform add the ability for it to have multiple users, who can interact with each other's posts (friend lists, upvotes, reposting etc).
+Add the correct commands to ensure that the data in the database persists between runs of docker compose. How far can you get in automating the whole process of building the containers?
 
